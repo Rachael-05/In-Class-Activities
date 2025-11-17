@@ -59,3 +59,14 @@ p {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
   transition: transform 1s ease, box-shadow 1s ease;
 }
+
+/* 
+1. What is the difference bewteen transition and transform in CSS?
+transition tell transform what and how fast something needs to change. Transform is how it changes.
+
+2. Why do you need both a transition defined and a property change (like transform) to see an animation?
+the transition is needed to activate the transform property.
+
+3. Which card animation do you like the most, and what transform functions did you use?
+I like the rotate function the most becaus i like watching the item spin. i used translate, rotate, scale, and skew.
+*/
